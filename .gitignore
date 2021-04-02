@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+#files
+/src/Components/youtube.js
+
 # testing
 /coverage
 

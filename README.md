@@ -1,4 +1,4 @@
-#A simple video search engine built using React
+# A simple video search engine built using React
 ### API used: https://developers.google.com/youtube/v3/docs/search
 
 > 
